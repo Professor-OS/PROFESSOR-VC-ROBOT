@@ -1,6 +1,7 @@
 {
     "name": "PVR",
     "description": "Telegram bot to stream video in telegram VC",
+    " logo": "https://telegra.ph/file/787c80d01723d15fbd4d0.jpg"
     "repository": "https://github.com/Professor-OS/PROFESSOR-VC-ROBOT",
     "stack": "container",
     "keywords": [
